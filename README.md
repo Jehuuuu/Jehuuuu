@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jehuuuu/Jehuuuu/main/assets/folderly-logo.png" width="80" />
+<img src="https://raw.githubusercontent.com/Jehuuuu/Jehuuuu/main/assets/folderly-logo.gif" width="120" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Co-Founder+%40+Folderly;Full+Stack+Developer;Building+the+student+productivity+app&font=Poppins&center=true&width=500&height=50&color=FFE149&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
