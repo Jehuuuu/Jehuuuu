@@ -32,11 +32,7 @@ From mobile to backend, automation pipelines, and AI integrations.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jehuuuu&show_icons=true&hide_border=true&bg_color=21222C&title_color=FFE149&text_color=F8F8F2&icon_color=FFE149&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jehuuuu&hide_border=true&background=21222C&ring=FFE149&fire=FF5555&currStreakLabel=FFE149&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=7F7F79)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehuuuu&layout=compact&hide_border=true&bg_color=21222C&title_color=FFE149&text_color=F8F8F2)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
