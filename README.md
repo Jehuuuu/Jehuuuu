@@ -17,14 +17,14 @@ From mobile to backend, automation pipelines, and AI integrations.
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-21222C?style=flat-square&logo=typescript&logoColor=FFE149)
-![React Native](https://img.shields.io/badge/React_Native-21222C?style=flat-square&logo=react&logoColor=C5E2FF)
-![Expo](https://img.shields.io/badge/Expo-21222C?style=flat-square&logo=expo&logoColor=F8F8F2)
-![Node.js](https://img.shields.io/badge/Node.js-21222C?style=flat-square&logo=nodedotjs&logoColor=D2EBC5)
-![Python](https://img.shields.io/badge/Python-21222C?style=flat-square&logo=python&logoColor=FCFC95)
-![Firebase](https://img.shields.io/badge/Firebase-21222C?style=flat-square&logo=firebase&logoColor=FFC591)
-![Supabase](https://img.shields.io/badge/Supabase-21222C?style=flat-square&logo=supabase&logoColor=D2EBC5)
-![Discord.js](https://img.shields.io/badge/Discord.js-21222C?style=flat-square&logo=discord&logoColor=DDD1FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-21222C?style=for-the-badge&logo=typescript&logoColor=FFE149)
+![React Native](https://img.shields.io/badge/React_Native-21222C?style=for-the-badge&logo=react&logoColor=C5E2FF)
+![Expo](https://img.shields.io/badge/Expo-21222C?style=for-the-badge&logo=expo&logoColor=F8F8F2)
+![Node.js](https://img.shields.io/badge/Node.js-21222C?style=for-the-badge&logo=nodedotjs&logoColor=D2EBC5)
+![Python](https://img.shields.io/badge/Python-21222C?style=for-the-badge&logo=python&logoColor=FCFC95)
+![Firebase](https://img.shields.io/badge/Firebase-21222C?style=for-the-badge&logo=firebase&logoColor=FFC591)
+![Supabase](https://img.shields.io/badge/Supabase-21222C?style=for-the-badge&logo=supabase&logoColor=D2EBC5)
+![Discord.js](https://img.shields.io/badge/Discord.js-21222C?style=for-the-badge&logo=discord&logoColor=DDD1FF)
 
 </div>
 
