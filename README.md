@@ -47,7 +47,11 @@ Building **Folderly** — the student productivity app. I work across the full s
 
 ### Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jehuuuu&theme=dracula&hide_border=true&bg_color=0D1117&color=BD93F9&line=FF79C6&point=F8F8F2)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jehuuuu/Jehuuuu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jehuuuu/Jehuuuu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jehuuuu/Jehuuuu/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 ---
 
